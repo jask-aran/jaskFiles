@@ -1,0 +1,16 @@
+{
+  "lastChangelogVersion": "0.65.2",
+  "defaultProvider": "openai-codex",
+  "defaultModel": "gpt-5.4",
+  "defaultThinkingLevel": "low",
+  "enabledModels": [
+    "openai-codex/gpt-5.3-codex-spark",
+    "openai-codex/gpt-5.4",
+    "openai-codex/gpt-5.3-codex"
+  ],
+  "packages": [
+    "npm:pi-web-access",
+    "https://github.com/mitsuhiko/agent-stuff"
+  ],
+  "hideThinkingBlock": true
+}
