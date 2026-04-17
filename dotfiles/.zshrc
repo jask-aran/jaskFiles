@@ -130,7 +130,7 @@ bindkey -M emacs '^[a' beginning-of-line
 
 function p10k-on-pre-prompt() {
   if [[ -z "$ZSH_BANNER_PRINTED" ]]; then
-    cat ~/.ascii_banner | lolcat
+    cat ~/.ascii_banner | /home/linuxbrew/.linuxbrew/bin/lolcat
     export ZSH_BANNER_PRINTED=1
   fi
   functions -u p10k-on-pre-prompt
@@ -143,9 +143,7 @@ export PATH="$PATH:/home/jask/go/bin"
 # Garry
 export PATH="$HOME/.garry/bin:$PATH"
 
-# nvm - load if installed (guards are no-ops on machines without nvm)
-# NOTE: this machine's original .zshrc had nvm init; the other machine's backup
-# was missing it, causing the shell to fall back to system Node 18 after deploy.
+# nvm
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
