@@ -79,9 +79,14 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
 	git
-	zsh-uv-env)
+	autoswitch_virtualenv)  # switched from zsh-uv-env; autoswitch_virtualenv handles uv .venv dirs and also supports pipenv/poetry
 
 source $ZSH/oh-my-zsh.sh
+
+# Display rainbow ASCII banner on shell start
+if [[ -f "$HOME/.ascii_banner" ]] && command -v lolcat >/dev/null 2>&1; then
+  lolcat "$HOME/.ascii_banner"
+fi
 
 # User configuration
 
@@ -137,3 +142,10 @@ export PATH="$PATH:/home/jask/go/bin"
 
 # Garry
 export PATH="$HOME/.garry/bin:$PATH"
+
+# nvm - load if installed (guards are no-ops on machines without nvm)
+# NOTE: this machine's original .zshrc had nvm init; the other machine's backup
+# was missing it, causing the shell to fall back to system Node 18 after deploy.
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
