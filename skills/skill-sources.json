@@ -1,0 +1,36 @@
+{
+  "generatedFrom": "/home/jask/jaskFiles/skills/.skill-lock.json",
+  "remoteManagedSkills": [
+    {
+      "name": "find-skills",
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "installedAt": "2026-03-31T06:56:11.148Z",
+      "updatedAt": "2026-03-31T06:56:11.148Z",
+      "presentInBackup": true
+    },
+    {
+      "name": "marimo-notebook",
+      "source": "marimo-team/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/marimo-team/skills.git",
+      "skillPath": "skills/marimo-notebook/SKILL.md",
+      "installedAt": "2026-03-31T06:56:06.087Z",
+      "updatedAt": "2026-04-18T14:25:48.025Z",
+      "presentInBackup": true
+    },
+    {
+      "name": "obsidian-markdown",
+      "source": "kepano/obsidian-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/kepano/obsidian-skills.git",
+      "skillPath": "skills/obsidian-markdown/SKILL.md",
+      "installedAt": "2026-04-18T07:16:32.367Z",
+      "updatedAt": "2026-04-18T07:16:32.367Z",
+      "presentInBackup": true
+    }
+  ],
+  "localOnlySkills": []
+}
