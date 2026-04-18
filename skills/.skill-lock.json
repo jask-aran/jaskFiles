@@ -1,14 +1,14 @@
 {
   "version": 3,
   "skills": {
-    "marimo-notebook": {
-      "source": "marimo-team/skills",
+    "notebook-cli": {
+      "source": "jupyter-ai-contrib/nb-cli",
       "sourceType": "github",
-      "sourceUrl": "https://github.com/marimo-team/skills.git",
-      "skillPath": "skills/marimo-notebook/SKILL.md",
-      "skillFolderHash": "2b1fdeeceeafb26e3c3bee198fad840dfed47df9",
-      "installedAt": "2026-03-31T06:56:06.087Z",
-      "updatedAt": "2026-04-18T14:25:48.025Z"
+      "sourceUrl": "https://github.com/jupyter-ai-contrib/nb-cli.git",
+      "skillPath": "skills/notebook-cli/SKILL.md",
+      "skillFolderHash": "627f6e942186c459eded39d7eda6cdff64396ec9",
+      "installedAt": "2026-03-31T03:13:30.432Z",
+      "updatedAt": "2026-03-31T03:13:30.432Z"
     },
     "find-skills": {
       "source": "vercel-labs/skills",
@@ -16,8 +16,26 @@
       "sourceUrl": "https://github.com/vercel-labs/skills.git",
       "skillPath": "skills/find-skills/SKILL.md",
       "skillFolderHash": "3013fdeb8a11b10b1eb795ec3ae8bfca38f7c26d",
-      "installedAt": "2026-03-31T06:56:11.148Z",
-      "updatedAt": "2026-03-31T06:56:11.148Z"
+      "installedAt": "2026-03-31T03:13:36.404Z",
+      "updatedAt": "2026-03-31T03:13:36.404Z"
+    },
+    "marimo-notebook": {
+      "source": "marimo-team/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/marimo-team/skills.git",
+      "skillPath": "skills/marimo-notebook/SKILL.md",
+      "skillFolderHash": "3027b91e1c1173af11fe62c992b4c9051fab21e0",
+      "installedAt": "2026-03-31T04:10:21.297Z",
+      "updatedAt": "2026-03-31T04:10:21.297Z"
+    },
+    "gh-cli": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/github/awesome-copilot.git",
+      "skillPath": "skills/gh-cli/SKILL.md",
+      "skillFolderHash": "437437f7f20bcdbbdb3081cf164435a388c0a39a",
+      "installedAt": "2026-04-08T05:53:05.362Z",
+      "updatedAt": "2026-04-08T05:53:05.362Z"
     },
     "obsidian-markdown": {
       "source": "kepano/obsidian-skills",
@@ -25,8 +43,18 @@
       "sourceUrl": "https://github.com/kepano/obsidian-skills.git",
       "skillPath": "skills/obsidian-markdown/SKILL.md",
       "skillFolderHash": "5caf5d9e7de204f3904216857545f2aa36bcfcac",
-      "installedAt": "2026-04-18T07:16:32.367Z",
-      "updatedAt": "2026-04-18T07:16:32.367Z"
+      "installedAt": "2026-04-18T04:42:12.204Z",
+      "updatedAt": "2026-04-18T04:42:12.204Z"
+    },
+    "pdf": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/pdf/SKILL.md",
+      "skillFolderHash": "6369f4649de69bd6857c9bc3b058a77206009238",
+      "pluginName": "document-skills",
+      "installedAt": "2026-04-18T13:46:03.286Z",
+      "updatedAt": "2026-04-18T13:46:03.286Z"
     }
   },
   "dismissed": {
@@ -39,11 +67,14 @@
     "codex",
     "cursor",
     "deepagents",
+    "firebender",
     "gemini-cli",
     "github-copilot",
     "kimi-cli",
     "opencode",
     "warp",
-    "claude-code"
+    "claude-code",
+    "droid",
+    "goose"
   ]
 }

@@ -7,8 +7,18 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/vercel-labs/skills.git",
       "skillPath": "skills/find-skills/SKILL.md",
-      "installedAt": "2026-03-31T06:56:11.148Z",
-      "updatedAt": "2026-03-31T06:56:11.148Z",
+      "installedAt": "2026-03-31T03:13:36.404Z",
+      "updatedAt": "2026-03-31T03:13:36.404Z",
+      "presentInBackup": true
+    },
+    {
+      "name": "gh-cli",
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/github/awesome-copilot.git",
+      "skillPath": "skills/gh-cli/SKILL.md",
+      "installedAt": "2026-04-08T05:53:05.362Z",
+      "updatedAt": "2026-04-08T05:53:05.362Z",
       "presentInBackup": true
     },
     {
@@ -17,8 +27,18 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/marimo-team/skills.git",
       "skillPath": "skills/marimo-notebook/SKILL.md",
-      "installedAt": "2026-03-31T06:56:06.087Z",
-      "updatedAt": "2026-04-18T14:25:48.025Z",
+      "installedAt": "2026-03-31T04:10:21.297Z",
+      "updatedAt": "2026-03-31T04:10:21.297Z",
+      "presentInBackup": true
+    },
+    {
+      "name": "notebook-cli",
+      "source": "jupyter-ai-contrib/nb-cli",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jupyter-ai-contrib/nb-cli.git",
+      "skillPath": "skills/notebook-cli/SKILL.md",
+      "installedAt": "2026-03-31T03:13:30.432Z",
+      "updatedAt": "2026-03-31T03:13:30.432Z",
       "presentInBackup": true
     },
     {
@@ -27,10 +47,25 @@
       "sourceType": "github",
       "sourceUrl": "https://github.com/kepano/obsidian-skills.git",
       "skillPath": "skills/obsidian-markdown/SKILL.md",
-      "installedAt": "2026-04-18T07:16:32.367Z",
-      "updatedAt": "2026-04-18T07:16:32.367Z",
+      "installedAt": "2026-04-18T04:42:12.204Z",
+      "updatedAt": "2026-04-18T04:42:12.204Z",
+      "presentInBackup": true
+    },
+    {
+      "name": "pdf",
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/pdf/SKILL.md",
+      "installedAt": "2026-04-18T13:46:03.286Z",
+      "updatedAt": "2026-04-18T13:46:03.286Z",
       "presentInBackup": true
     }
   ],
-  "localOnlySkills": []
+  "localOnlySkills": [
+    {
+      "name": "ipynb",
+      "note": "Not present in .skill-lock.json; likely local/manual/copied skill. Keep backup copy."
+    }
+  ]
 }
