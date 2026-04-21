@@ -1,0 +1,17 @@
+{
+  "lastChangelogVersion": "0.66.1",
+  "defaultProvider": "openai-codex",
+  "defaultModel": "gpt-5.4",
+  "defaultThinkingLevel": "medium",
+  "theme": "dark",
+  "enabledModels": [
+    "anthropic/claude-opus-4-6",
+    "anthropic/claude-sonnet-4-6",
+    "openai-codex/gpt-5.3-codex",
+    "openai-codex/gpt-5.4",
+    "google-antigravity/gemini-3.1-pro-high",
+    "google-antigravity/gemini-3-flash",
+    "google-antigravity/claude-opus-4-6-thinking",
+    "google-antigravity/claude-sonnet-4-6"
+  ]
+}

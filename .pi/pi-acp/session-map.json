@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "sessions": {
+    "019d9f5c-fc2c-7199-a267-707dc9a0016b": {
+      "sessionId": "019d9f5c-fc2c-7199-a267-707dc9a0016b",
+      "cwd": "/tmp",
+      "sessionFile": "/home/jask/.pi/agent/sessions/--tmp--/2026-04-18T06-52-44-460Z_019d9f5c-fc2c-7199-a267-707dc9a0016b.jsonl",
+      "updatedAt": "2026-04-18T06:52:45.350Z"
+    },
+    "019d9f67-2835-73c4-a204-77a34f6398d6": {
+      "sessionId": "019d9f67-2835-73c4-a204-77a34f6398d6",
+      "cwd": "/mnt/c/Users/jaska/My Drive (jaskarann.singhh@gmail.com)/Writing",
+      "sessionFile": "/home/jask/.pi/agent/sessions/--mnt-c-Users-jaska-My Drive (jaskarann.singhh@gmail.com)-Writing--/2026-04-18T07-03-51-093Z_019d9f67-2835-73c4-a204-77a34f6398d6.jsonl",
+      "updatedAt": "2026-04-18T07:03:51.857Z"
+    },
+    "019d9f68-1aa4-728a-abd2-a917ba749621": {
+      "sessionId": "019d9f68-1aa4-728a-abd2-a917ba749621",
+      "cwd": "/mnt/c/Users/jaska/My Drive (jaskarann.singhh@gmail.com)/Writing",
+      "sessionFile": "/home/jask/.pi/agent/sessions/--mnt-c-Users-jaska-My Drive (jaskarann.singhh@gmail.com)-Writing--/2026-04-18T07-04-53-156Z_019d9f68-1aa4-728a-abd2-a917ba749621.jsonl",
+      "updatedAt": "2026-04-18T07:04:53.812Z"
+    },
+    "019d9f68-eef7-734f-b85f-b74ad9b03627": {
+      "sessionId": "019d9f68-eef7-734f-b85f-b74ad9b03627",
+      "cwd": "/mnt/c/Users/jaska/My Drive (jaskarann.singhh@gmail.com)/Writing",
+      "sessionFile": "/home/jask/.pi/agent/sessions/--mnt-c-Users-jaska-My Drive (jaskarann.singhh@gmail.com)-Writing--/2026-04-18T07-05-47-511Z_019d9f68-eef7-734f-b85f-b74ad9b03627.jsonl",
+      "updatedAt": "2026-04-18T07:05:48.153Z"
+    },
+    "019d9f6a-8640-74cd-953b-9059801c540d": {
+      "sessionId": "019d9f6a-8640-74cd-953b-9059801c540d",
+      "cwd": "/mnt/c/Users/jaska/My Drive (jaskarann.singhh@gmail.com)/Writing",
+      "sessionFile": "/home/jask/.pi/agent/sessions/--mnt-c-Users-jaska-My Drive (jaskarann.singhh@gmail.com)-Writing--/2026-04-18T07-07-31-776Z_019d9f6a-8640-74cd-953b-9059801c540d.jsonl",
+      "updatedAt": "2026-04-18T07:07:32.603Z"
+    },
+    "019da114-840c-725a-a96e-afe84aab4f6f": {
+      "sessionId": "019da114-840c-725a-a96e-afe84aab4f6f",
+      "cwd": "/mnt/c/Users/jaska/My Drive (jaskarann.singhh@gmail.com)/Writing",
+      "sessionFile": "/home/jask/.pi/agent/sessions/--mnt-c-Users-jaska-My Drive (jaskarann.singhh@gmail.com)-Writing--/2026-04-18T14-52-49-549Z_019da114-840c-725a-a96e-afe84aab4f6f.jsonl",
+      "updatedAt": "2026-04-18T14:52:50.515Z"
+    },
+    "019da97e-c7e3-7729-8d2d-3bd0bb92620e": {
+      "sessionId": "019da97e-c7e3-7729-8d2d-3bd0bb92620e",
+      "cwd": "/mnt/c/Users/jaska/My Drive (jaskarann.singhh@gmail.com)/Writing",
+      "sessionFile": "/home/jask/.pi/agent/sessions/--mnt-c-Users-jaska-My Drive (jaskarann.singhh@gmail.com)-Writing--/2026-04-20T06-05-51-459Z_019da97e-c7e3-7729-8d2d-3bd0bb92620e.jsonl",
+      "updatedAt": "2026-04-20T06:05:52.343Z"
+    },
+    "019dab3a-1433-75dc-9d7f-ded619225a0c": {
+      "sessionId": "019dab3a-1433-75dc-9d7f-ded619225a0c",
+      "cwd": "/mnt/c/Users/jaska/My Drive (jaskarann.singhh@gmail.com)/Writing",
+      "sessionFile": "/home/jask/.pi/agent/sessions/--mnt-c-Users-jaska-My Drive (jaskarann.singhh@gmail.com)-Writing--/2026-04-20T14-10-03-443Z_019dab3a-1433-75dc-9d7f-ded619225a0c.jsonl",
+      "updatedAt": "2026-04-20T14:10:04.442Z"
+    },
+    "019dab3b-4511-71b5-8bee-97818f546f39": {
+      "sessionId": "019dab3b-4511-71b5-8bee-97818f546f39",
+      "cwd": "/mnt/c/Users/jaska/My Drive (jaskarann.singhh@gmail.com)/Writing",
+      "sessionFile": "/home/jask/.pi/agent/sessions/--mnt-c-Users-jaska-My Drive (jaskarann.singhh@gmail.com)-Writing--/2026-04-20T14-11-21-489Z_019dab3b-4511-71b5-8bee-97818f546f39.jsonl",
+      "updatedAt": "2026-04-20T14:11:22.217Z"
+    },
+    "019dad17-b882-722f-bdb3-25b10cdc2e4b": {
+      "sessionId": "019dad17-b882-722f-bdb3-25b10cdc2e4b",
+      "cwd": "/mnt/c/Users/jaska/My Drive (jaskarann.singhh@gmail.com)/Writing",
+      "sessionFile": "/home/jask/.pi/agent/sessions/--mnt-c-Users-jaska-My Drive (jaskarann.singhh@gmail.com)-Writing--/2026-04-20T22-51-46-179Z_019dad17-b882-722f-bdb3-25b10cdc2e4b.jsonl",
+      "updatedAt": "2026-04-20T22:51:47.293Z"
+    },
+    "019dad23-4c4f-718a-8a0a-5e299814ae5c": {
+      "sessionId": "019dad23-4c4f-718a-8a0a-5e299814ae5c",
+      "cwd": "/mnt/c/Users/jaska/My Drive (jaskarann.singhh@gmail.com)/Writing",
+      "sessionFile": "/home/jask/.pi/agent/sessions/--mnt-c-Users-jaska-My Drive (jaskarann.singhh@gmail.com)-Writing--/2026-04-20T23-04-24-911Z_019dad23-4c4f-718a-8a0a-5e299814ae5c.jsonl",
+      "updatedAt": "2026-04-20T23:04:28.021Z"
+    },
+    "019dae5d-c648-73ac-b001-84ea60583890": {
+      "sessionId": "019dae5d-c648-73ac-b001-84ea60583890",
+      "cwd": "/mnt/c/Users/jaska/My Drive (jaskarann.singhh@gmail.com)/Writing",
+      "sessionFile": "/home/jask/.pi/agent/sessions/--mnt-c-Users-jaska-My Drive (jaskarann.singhh@gmail.com)-Writing--/2026-04-21T04-47-54-440Z_019dae5d-c648-73ac-b001-84ea60583890.jsonl",
+      "updatedAt": "2026-04-21T04:47:55.149Z"
+    }
+  }
+}

@@ -1,1 +1,6 @@
 .DS_Store
+
+# Pi local secrets and runtime state
+/.pi/agent/auth.json
+/.pi/agent/sessions/
+/.pi/logs/

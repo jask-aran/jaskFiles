@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "servers": {
+    "deepwiki": {
+      "configHash": "e47c5fe8991ae0d84ec2ae853980023d93e3765f1b96605f3ca031d1108ef66e",
+      "tools": [
+        {
+          "name": "read_wiki_structure",
+          "description": "Get a list of documentation topics for a GitHub repository.\n\nArgs:\n    repoName: GitHub repository in owner/repo format (e.g. \"facebook/react\")",
+          "inputSchema": {
+            "type": "object",
+            "properties": {
+              "repoName": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "repoName"
+            ]
+          }
+        },
+        {
+          "name": "read_wiki_contents",
+          "description": "View documentation about a GitHub repository.\n\nArgs:\n    repoName: GitHub repository in owner/repo format (e.g. \"facebook/react\")",
+          "inputSchema": {
+            "type": "object",
+            "properties": {
+              "repoName": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "repoName"
+            ]
+          }
+        },
+        {
+          "name": "ask_question",
+          "description": "Ask any question about a GitHub repository and get an AI-powered, context-grounded response.\n\nArgs:\n    repoName: GitHub repository or list of repositories (max 10) in owner/repo format\n    question: The question to ask about the repository",
+          "inputSchema": {
+            "type": "object",
+            "properties": {
+              "repoName": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "items": {
+                      "type": "string"
+                    },
+                    "type": "array"
+                  }
+                ]
+              },
+              "question": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "repoName",
+              "question"
+            ]
+          }
+        }
+      ],
+      "resources": [],
+      "cachedAt": 1776669050010
+    }
+  }
+}

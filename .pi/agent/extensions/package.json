@@ -1,0 +1,7 @@
+{
+  "name": "jask-pi-extensions-local",
+  "private": true,
+  "dependencies": {
+    "diff": "^8.0.4"
+  }
+}
